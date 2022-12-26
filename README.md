@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Head of development division at @KUWAITNET<br>🌱 I’m currently learning Data Science and Machine learning<br>💬 Ask me about @django, @python an anything around<br>⚡ Fun fact: the Earth is not flat!
+🔭 I’m currently working as Head of development division at [KUWAITNET](https://github.com/KUWAITNET)<br>💬 Ask me about @django, @python an anything around<br>⚡ Fun fact: the Earth is not flat!
 
 
 ## 🌐 Socials:
