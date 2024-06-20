@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Head of development division at [KUWAITNET](https://github.com/KUWAITNET)<br>💬 Ask me about @django, @python an anything around<br>⚡ Fun fact: the Earth is not flat!
-
+🔭 I’m currently working as Head of development division at [KUWAITNET](https://github.com/KUWAITNET)<br>💬 Ask me about @django, @python an anything around<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iecugol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ecugol) 
